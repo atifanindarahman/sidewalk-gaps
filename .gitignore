@@ -179,3 +179,16 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Data and GIS files: too large for GitHub, download them again from the sources in the README
+data/
+*.tif
+*.tiff
+*.gdb/
+*.aprx
+*.atbx
+*.dlpk
+*.gpkg
+
+# PyCharm settings
+.idea/

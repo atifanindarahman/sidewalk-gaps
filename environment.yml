@@ -1,0 +1,16 @@
+name: sidewalk
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.11
+  - geopandas
+  - pyogrio
+  - shapely
+  - osmnx
+  - pandas
+  - scikit-learn
+  - scipy
+  - matplotlib
+  - rasterio
+  - openpyxl
