@@ -1,3 +1,4 @@
+# save as src/00_download_acs.py
 import os
 import pandas as pd
 import requests
@@ -15,8 +16,9 @@ key = key or os.environ.get('CENSUS_API_KEY')
 if not key:
     raise SystemExit(f'No Census API key found. Expected it in {env_file}')
 
-# 2. What to download
-VARS = 'NAME,B19013_001E,B01003_001E,B08201_001E,B08201_002E'
+# 2. What to download. B25044 (tenure by vehicles available) is published
+#    for block groups; B08201 is only published for tracts and comes back empty.
+VARS = 'NAME,B19013_001E,B01003_001E,B25044_001E,B25044_003E,B25044_010E'
 BASE = 'https://api.census.gov/data/2022/acs/acs5'
 
 # 3. Download block groups for Denver, Adams and Arapahoe counties
@@ -40,10 +42,11 @@ for county in ('031', '001', '005'):
 # 4. Clean up and save
 acs = pd.concat(frames, ignore_index=True)
 acs['GEOID'] = acs['state'] + acs['county'] + acs['tract'] + acs['block group']
-for col in ('B19013_001E', 'B01003_001E', 'B08201_001E', 'B08201_002E'):
+for col in ('B19013_001E', 'B01003_001E', 'B25044_001E', 'B25044_003E', 'B25044_010E'):
     acs[col] = pd.to_numeric(acs[col], errors='coerce')
 acs.loc[acs['B19013_001E'] < 0, 'B19013_001E'] = None   # -666666666 means no estimate
-acs['pct_no_vehicle'] = acs['B08201_002E'] / acs['B08201_001E']
+acs['hh_no_vehicle'] = acs['B25044_003E'] + acs['B25044_010E']
+acs['pct_no_vehicle'] = acs['hh_no_vehicle'] / acs['B25044_001E']
 
 out = RAW / 'census' / 'acs_2022_bg.csv'
 out.parent.mkdir(parents=True, exist_ok=True)
