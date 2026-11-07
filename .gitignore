@@ -192,3 +192,4 @@ data/
 
 # PyCharm settings
 .idea/
+.env
