@@ -1,0 +1,38 @@
+kind,name,city,street_sides_km,gap_share_model,gap_share_drcog,circle_inside_study_area
+stop,11th Ave & Boston St,Aurora,8.81,0.825,0.105,0.51
+stop,11th Ave & Dayton St,Aurora,7.79,0.749,0.096,0.49
+stop,Colfax Ave & Uinta St,Denver,16.93,0.747,0.404,1.0
+stop,Colfax Ave & Uinta St,Denver,17.18,0.741,0.42,1.0
+stop,Colfax Ave & Syracuse St,Denver,13.98,0.728,0.453,0.8
+stop,Colfax Ave & Syracuse St,Denver,15.26,0.718,0.419,0.88
+stop,11th Ave & Yosemite St,Denver,8.93,0.657,0.147,0.52
+stop,11th Ave & Rosemary St,Denver,4.06,0.64,0.172,0.32
+stop,Colfax Ave & Willow St,Denver,17.0,0.639,0.228,1.0
+stop,11th Ave & Uinta Way,Denver,4.85,0.61,0.188,0.51
+stop,11th Ave & Xanthia St,Denver,8.46,0.609,0.21,0.51
+stop,11th Ave & Spruce Ct,Denver,4.55,0.593,0.176,0.52
+stop,Colfax Ave & Willow St,Denver,16.64,0.567,0.193,1.0
+stop,Montview Blvd & Willow St,Denver,15.07,0.506,0.143,1.0
+stop,Montview Blvd & Beeler St,Aurora,12.35,0.503,0.055,1.0
+stop,Montview Blvd & Yosemite St,Denver,14.19,0.499,0.132,0.98
+stop,Montview Blvd & Beeler St,Denver,11.73,0.487,0.069,0.99
+stop,Montview Blvd & Yosemite St,Aurora,13.91,0.461,0.117,1.0
+stop,Montview Blvd & Clinton St,Aurora,12.65,0.459,0.045,0.99
+stop,Montview Blvd & Willow St,Denver,15.06,0.455,0.143,0.98
+stop,Montview Blvd & Clinton St,Aurora,14.2,0.446,0.044,1.0
+stop,Montview Blvd & Dayton St,Aurora,13.34,0.433,0.044,0.84
+stop,Montview Blvd & Dayton St,Aurora,13.67,0.426,0.042,0.84
+stop,Colfax & Yosemite Station,Denver,16.49,0.407,0.052,1.0
+stop,Montview Blvd & Syracuse St,Denver,12.36,0.402,0.028,0.87
+stop,Central Park Blvd & 21st Ave,Denver,11.4,0.389,0.189,0.78
+stop,Central Park Blvd & 23rd Ave,Denver,10.01,0.37,0.215,0.67
+stop,Syracuse St & Montview Blvd,Denver,10.67,0.36,0.016,0.76
+stop,Montview Blvd & Valentia St,Denver,14.17,0.357,0.067,1.0
+stop,Colfax & Yosemite Station,Aurora,16.52,0.353,0.037,1.0
+stop,Montview Blvd & Valentia St,Denver,14.08,0.329,0.056,0.98
+stop,Montview Blvd & Trenton St,Denver,14.19,0.318,0.051,1.0
+stop,Montview Blvd & Trenton St,Denver,13.76,0.299,0.034,0.99
+stop,Colfax Ave & Beeler St,Aurora,16.47,0.283,0.047,1.0
+stop,Colfax Ave & Beeler St,Aurora,16.34,0.275,0.047,1.0
+stop,Colfax & Dayton Station,Aurora,11.3,0.245,0.091,0.72
+stop,Colfax & Dayton Station,Aurora,14.97,0.225,0.076,0.93

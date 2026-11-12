@@ -11,6 +11,8 @@ CRS = 26913          # NAD83 / UTM zone 13N, meters
 CORRIDOR = 20        # meters searched on each side of a street
 SEG_LEN = 30         # meters per street segment
 MIN_AREA_PER_M = 0.75
+PROBE_STEP = 3       # meters between probe lines along a street
+MIN_HIT = 0.6        # share of probes that must cross a sidewalk
 SEED = 42            # fixed seed for the Street View sample
 
 for p in (RAW, WORK, FIG, TAB):

@@ -1,0 +1,5 @@
+source,city,street_sides_km,gap_km,gap_share,gap_km_per_km2,sides_total,sides_gap
+Model,Aurora,61.1,27.5,0.449,13.78,2034,916
+Model,Denver,87.8,49.6,0.565,16.49,2877,1625
+DRCOG,Aurora,61.1,2.3,0.038,1.17,2034,102
+DRCOG,Denver,87.8,18.0,0.205,5.99,2877,592

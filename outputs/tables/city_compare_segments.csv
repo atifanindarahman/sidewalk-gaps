@@ -1,0 +1,5 @@
+source,city,both sides,one side,no sidewalk
+Model,Aurora,0.414,0.244,0.342
+Model,Denver,0.287,0.264,0.449
+DRCOG,Aurora,0.905,0.08,0.014
+DRCOG,Denver,0.707,0.142,0.151

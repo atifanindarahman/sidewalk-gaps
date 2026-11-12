@@ -1,0 +1,5 @@
+gaps_from,compared_with,block_groups,spearman_rho,p_value
+gap_share_model,median_income,16,0.1,0.721
+gap_share_model,pct_no_vehicle,17,-0.2,0.436
+gap_share_drcog,median_income,16,0.23,0.399
+gap_share_drcog,pct_no_vehicle,17,-0.08,0.754

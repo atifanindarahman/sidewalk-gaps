@@ -1,0 +1,21 @@
+check_id,street,lat,lon,heading,street_view,observed,capture_date,notes
+1,North Akron Street,39.747045,-104.883449,90,"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.747045,-104.883449&heading=90&pitch=-10",yes,Aug-21,very narrow
+2,North Yosemite Street,39.734915,-104.884698,271,"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.734915,-104.884698&heading=271&pitch=-10",yes,Apr-15,
+3,North Akron Way,39.749283,-104.882983,301,"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.749283,-104.882983&heading=301&pitch=-10",yes,Aug-21,
+4,East 14th Avenue,39.738297,-104.875843,0,"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.738297,-104.875843&heading=0&pitch=-10",yes,Aug-21,
+5,North Beeler Street,39.745983,-104.881105,270,"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.745983,-104.881105&heading=270&pitch=-10",yes,Nov-23,very narrow
+6,North Yosemite Street,39.742371,-104.884654,90,"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.742371,-104.884654&heading=90&pitch=-10",yes,Aug-21,very narrow
+7,North Xanthia Street,39.734913,-104.887038,90,"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.734913,-104.887038&heading=90&pitch=-10",yes,Nov-23,very narrow
+8,East 17th Avenue,39.743802,-104.884458,0,"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.743802,-104.884458&heading=0&pitch=-10",yes,Nov-23,very narrow
+9,East Colfax Avenue,39.740111,-104.891121,360,"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.740111,-104.891121&heading=360&pitch=-10",unclear,Nov-22,under construction
+10,East 13th Avenue,39.737282,-104.897768,360,"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.737282,-104.897768&heading=360&pitch=-10",yes,Aug-21,very narrow
+11,North Syracuse Street,39.738287,-104.898783,90,"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.738287,-104.898783&heading=90&pitch=-10",yes,Oct-23,very narrow
+12,East 14th Avenue,39.738296,-104.878596,360,"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.738296,-104.878596&heading=360&pitch=-10",yes,Aug-21,very narrow
+13,East Montview Boulevard,39.747479,-104.877772,360,"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.747479,-104.877772&heading=360&pitch=-10",yes,Nov-22,
+14,East Montview Boulevard,39.747437,-104.897372,179,"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.747437,-104.897372&heading=179&pitch=-10",yes,Oct-23,
+15,North Emporia Street,39.74154,-104.874066,270,"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.74154,-104.874066&heading=270&pitch=-10",yes,Nov-23,
+16,North Central Park Boulevard,39.747858,-104.884859,69,"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.747858,-104.884859&heading=69&pitch=-10",yes,Nov-22,
+17,East Colfax Avenue,39.74022,-104.874381,360,"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.74022,-104.874381&heading=360&pitch=-10",yes,Aug-21,Canopy cover
+18,North Roslyn Street,39.746521,-104.901093,90,"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.746521,-104.901093&heading=90&pitch=-10",yes,Oct-23,very narrow
+19,East Colfax Avenue,39.740115,-104.886031,180,"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.740115,-104.886031&heading=180&pitch=-10",yes,Nov-22,
+20,East Colfax Avenue,39.740112,-104.883279,180,"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.740112,-104.883279&heading=180&pitch=-10",yes,Nov-22,

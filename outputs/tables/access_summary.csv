@@ -1,0 +1,7 @@
+,,gap_share_model,gap_share_model,gap_share_model,gap_share_drcog,gap_share_drcog,gap_share_drcog
+,,mean,max,count,mean,max,count
+kind,city,,,,,,
+school,Aurora,0.4,0.43,3,0.048,0.056,3
+school,Denver,0.414,0.533,4,0.118,0.17,4
+stop,Aurora,0.437,0.825,13,0.065,0.117,13
+stop,Denver,0.518,0.747,24,0.175,0.453,24

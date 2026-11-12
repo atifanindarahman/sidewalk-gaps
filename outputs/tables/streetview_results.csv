@@ -1,0 +1,7 @@
+area,source,checked,overall_agreement,gaps_confirmed,gaps_called,sidewalks_confirmed,sidewalks_called
+All,Model,19,0.47,0.0,10,1.0,9
+All,DRCOG,19,0.89,0.0,2,1.0,17
+Aurora,Model,10,0.5,0.0,5,1.0,5
+Aurora,DRCOG,10,0.9,0.0,1,1.0,9
+Denver,Model,9,0.44,0.0,5,1.0,4
+Denver,DRCOG,9,0.89,0.0,1,1.0,8

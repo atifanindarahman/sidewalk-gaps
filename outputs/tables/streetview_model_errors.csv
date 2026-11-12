@@ -1,0 +1,11 @@
+check_id,street,city,has_pred,has_drcog,observed,notes,street_view
+1,North Akron Street,Aurora,False,True,yes,very narrow,"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.747045,-104.883449&heading=90&pitch=-10"
+4,East 14th Avenue,Aurora,False,True,yes,,"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.738297,-104.875843&heading=0&pitch=-10"
+7,North Xanthia Street,Denver,False,True,yes,very narrow,"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.734913,-104.887038&heading=90&pitch=-10"
+8,East 17th Avenue,Aurora,False,True,yes,very narrow,"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.743802,-104.884458&heading=0&pitch=-10"
+11,North Syracuse Street,Denver,False,True,yes,very narrow,"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.738287,-104.898783&heading=90&pitch=-10"
+12,East 14th Avenue,Aurora,False,True,yes,very narrow,"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.738296,-104.878596&heading=360&pitch=-10"
+15,North Emporia Street,Aurora,False,False,yes,,"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.74154,-104.874066&heading=270&pitch=-10"
+16,North Central Park Boulevard,Denver,False,False,yes,,"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.747858,-104.884859&heading=69&pitch=-10"
+18,North Roslyn Street,Denver,False,True,yes,very narrow,"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.746521,-104.901093&heading=90&pitch=-10"
+19,East Colfax Avenue,Denver,False,True,yes,,"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.740115,-104.886031&heading=180&pitch=-10"

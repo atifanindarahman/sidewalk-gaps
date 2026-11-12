@@ -1,0 +1,8 @@
+kind,name,city,street_sides_km,gap_share_model,gap_share_drcog,circle_inside_study_area
+school,Ashley Elementary School,Denver,12.83,0.533,0.17,0.88
+school,New Legacy Charter School,Aurora,10.71,0.43,0.056,0.75
+school,Early Learning Center at New Legacy Charter School,Aurora,10.71,0.43,0.056,0.75
+school,William (Bill) Roberts ECE-8 School,Denver,11.42,0.423,0.112,0.93
+school,DSST: Montview Middle School,Denver,14.43,0.357,0.099,0.96
+school,DSST: Montview High School,Denver,14.36,0.345,0.089,0.96
+school,Boston K-8 School,Aurora,16.44,0.34,0.033,1.0
