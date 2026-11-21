@@ -5,8 +5,8 @@ GEOG 4165 (GeoAI), University of Denver, Fall 2026.
 
 <table>
   <tr>
-    <td><img src="outputs/figures/shot_gaps_drcog.pnggaps_drcog.png" alt="Sidewalk gaps from the DRCOG reference"></td>
-    <td><img src="outputs/figures/shot_gaps_model.pnggaps_model.png" alt="Sidewalk gaps from the model"></td>
+    <td><img src="outputs/figures/shot_gaps_drcog.png" alt="Sidewalk gaps from the DRCOG reference"></td>
+    <td><img src="outputs/figures/shot_gaps_model.png" alt="Sidewalk gaps from the model"></td>
   </tr>
   <tr>
     <td align="center">Gaps from the DRCOG reference sidewalks</td>
