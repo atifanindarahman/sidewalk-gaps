@@ -142,19 +142,6 @@ sidewalk-gaps/
   data/           not uploaded (raw downloads and ArcGIS project)
 ```
 
-## Limitations
-
-- **One area, one model run.** The study covers 5 km² and one set of model settings. Other settings or fine-tuning might recover the missed sidewalks.
-- **The reference isn't perfect.** DRCOG sidewalks were drawn by hand from the same imagery, so some reference gaps may be mapping errors.
-- **Small ground check.** The Street View sample had 19 usable street sides and happened to include no real gaps. It tests the model's misses well but doesn't confirm the DRCOG gap shares.
-- **Small census sample.** 17 block groups is too few to rule out a link with income.
-
-## Next steps
-
-- Fine-tune the model using DRCOG sidewalks as local training data, aimed at narrow sidewalks next to the curb.
-- Run a larger, random Street View check that includes real gaps.
-- Extend the analysis along the whole Denver–Aurora boundary and compare it with each city's sidewalk rules.
-
 ## Credits and licenses
 
 - Imagery and planimetric data: Denver Regional Council of Governments (DRCOG), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/us/).
